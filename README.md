@@ -79,17 +79,17 @@ This project analyzes the Shopify app ecosystem using publicly scraped data to i
 - Implemented proper data modeling for cross-table analysis
 - Managed 4 interconnected tables: apps, reviews, categories, and apps_categories
 
-### DAX Formulas Created
+## DAX Formulas Created
 ```dax
 helpful_reviews = rating * (1 + helpful_count)
 developer_answered = IF(NOT(ISBLANK(reviews[developer_reply])), 1, 0)
 
-### 💡 Business Implications
+##  💡 **Business Implications**
 -**For App Developers**: Focus on app quality over customer service responsiveness for ratings
 -**For Shopify**: Developer response rates may not be the best metric for app success
 -**For Users**: Review helpfulness scores provide better app evaluation than raw ratings
  
-## 🛠️ Tools & Technologies
+## 🛠️ **Tools & Technologies**
 
 - **Power BI** - Dashboard creation, data modeling, DAX formulas
 - **Data Analysis** - Statistical correlation analysis, pattern identification
