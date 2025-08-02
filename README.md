@@ -84,6 +84,7 @@ This project analyzes the Shopify app ecosystem using publicly scraped data to i
 helpful_reviews = rating * (1 + helpful_count)
 developer_answered = IF(NOT(ISBLANK(reviews[developer_reply])), 1, 0)
 ```
+
 ##  💡 **Business Implications**
 -**For App Developers**: Focus on app quality over customer service responsiveness for ratings
 -**For Shopify**: Developer response rates may not be the best metric for app success
