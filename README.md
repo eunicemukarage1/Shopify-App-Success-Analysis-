@@ -98,4 +98,4 @@ developer_answered = IF(NOT(ISBLANK(reviews[developer_reply])), 1, 0)
 - **Business Intelligence** - Insight generation, data storytelling
 
 ## 📊 Data Source
-Dataset: Shopify App Store public data (4 tables, 7,341+ apps analyzed)
+Dataset:[ Shopify App Store public data](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/shopify.xlsx) (4 tables, 7,341+ apps analyzed)
