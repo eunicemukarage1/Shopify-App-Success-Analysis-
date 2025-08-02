@@ -30,7 +30,7 @@ This project analyzes the Shopify app ecosystem using publicly scraped data to i
 
 **1.1 Total Apps Overview**
 
-![App Count KPI](screenshots/app_landscape_kpi.png)
+![App Count KPI](https://github.com/eunicemukarage1/Shopify-App-Success-Analysis-/commit/6bfbe43b4ca8e0d7f0b0f1056e033e77bd876b7d#diff-a5fe6c7d17f34647fae640ac20dda8f33f210703bb05c02f882513c802a87b7c))
 *KPI Card showing 7,341 unique apps in the Shopify marketplace*
 
 **1.2 Review Activity Over Time**
