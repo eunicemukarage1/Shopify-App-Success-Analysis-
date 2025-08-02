@@ -86,9 +86,9 @@ developer_answered = IF(NOT(ISBLANK(reviews[developer_reply])), 1, 0)
 ```
 
 ##  💡 **Business Implications**
--**For App Developers**: Focus on app quality over customer service responsiveness for ratings
--**For Shopify**: Developer response rates may not be the best metric for app success
--**For Users**: Review helpfulness scores provide better app evaluation than raw ratings
+1.**For App Developers**: Focus on app quality over customer service responsiveness for ratings
+2.**For Shopify**: Developer response rates may not be the best metric for app success
+3.**For Users**: Review helpfulness scores provide better app evaluation than raw ratings
  
 ## 🛠️ **Tools & Technologies**
 
